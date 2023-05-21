@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khuattiendat/wordiee-game.git/static/css/main.8b59980b.css",
+    "main.js": "/khuattiendat/wordiee-game.git/static/js/main.9e328c0a.js",
+    "index.html": "/khuattiendat/wordiee-game.git/index.html",
+    "main.8b59980b.css.map": "/khuattiendat/wordiee-game.git/static/css/main.8b59980b.css.map",
+    "main.9e328c0a.js.map": "/khuattiendat/wordiee-game.git/static/js/main.9e328c0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b59980b.css",
+    "static/js/main.9e328c0a.js"
+  ]
+}
